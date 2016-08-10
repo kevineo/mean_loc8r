@@ -32,4 +32,4 @@ Then change into the folder the git clone command will create:
 
 And finally install the dependencies:
 
-`npm install`
+`npm install`# mean_loc8r
